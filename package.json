@@ -1,0 +1,14 @@
+{
+  "name": "api-automation-cypress",
+  "version": "1.0.0",
+  "description": "API Automation using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "arysetiyawan (parys410@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.1.0"
+  }
+}
